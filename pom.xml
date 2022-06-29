@@ -62,7 +62,7 @@
 		<spring-security.version>5.3.3.RELEASE</spring-security.version>
 		
 		<!-- Envio de E-Mail -->
-		<commons-email.version>1.4</commons-email.version>
+		<commons-email.version>1.5</commons-email.version>
 		<javax.mail.version>1.4.7</javax.mail.version>
 		<velocity.version>1.7</velocity.version>
 		<velocity-tools.version>1.4</velocity-tools.version>
