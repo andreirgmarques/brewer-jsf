@@ -45,7 +45,7 @@
 		<hibernate-validator.version>5.3.5.Final</hibernate-validator.version>
 
 		<!-- JPA / Hibernate -->
-		<hibernate.version>5.2.4.Final</hibernate.version>
+		<hibernate.version>5.3.20.Final</hibernate.version>
 
 		<!-- thumbnailator - Gerar Thumbnail -->
 		<!-- https://github.com/coobird/thumbnailator -->
